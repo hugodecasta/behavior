@@ -1,0 +1,24 @@
+{
+  "name": "behavior",
+  "version": "0.1.0",
+  "description": "Behavior ...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugodecasta/behavior.git"
+  },
+  "keywords": [
+    "Behavior",
+    "Random",
+    "Avatar"
+  ],
+  "author": "Hugo Castaneda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hugodecasta/behavior/issues"
+  },
+  "homepage": "https://github.com/hugodecasta/behavior#readme"
+}
